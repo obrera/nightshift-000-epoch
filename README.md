@@ -51,3 +51,4 @@ API on `:3001`, Web on `:5173` (proxies API calls).
 ## License
 
 MIT
+# Built with 🐝 during Nightshift #000
